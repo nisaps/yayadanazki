@@ -5,7 +5,7 @@ body {
     margin: 0;
     font-family: "Lora", serif;
     overflow-x: hidden;
-    background-color: #090909;
+    background-color: #0B0B0B;
     color: #fff;
 }
 
@@ -23,7 +23,7 @@ body {
     justify-content: space-around;
 
     color: #fff;
-    background: #090909;
+    background: #0B0B0B;
     text-align: center;
     margin-top: -1em !important;
     padding-bottom: 2em;
@@ -75,7 +75,7 @@ body {
     flex-direction: column;
     justify-content: space-around;
     color: white;
-    background-image: url(https://i.pinimg.com/564x/79/4e/6c/794e6c67413200f0515af1a54ee46bd7.jpg);
+    background-image: url(https://i.pinimg.com/236x/da/21/ba/da21ba2c185863c4a17fcbc3d2d971d5.jpg);
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
@@ -91,7 +91,7 @@ body {
     display: flex;
     flex-direction: column;
     justify-content: space-around;
-    background-color: #090909;
+    background-color: #0B0B0B;
     padding: 2em;
 }
 
@@ -101,7 +101,7 @@ body {
     display: flex;
     flex-direction: column;
     justify-content: space-around;
-    background-color: #090909;
+    background-color: #0B0B0B;
 }
 
 .foto img {
@@ -191,7 +191,7 @@ a {
 }
 
 .quotes {
-    border-left: 2px solid #090909;
+    border-left: 2px solid #0B0B0B;
     margin-left: 2em;
     text-align: left;
     margin-right: 2em;
