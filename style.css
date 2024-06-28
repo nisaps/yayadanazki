@@ -5,7 +5,7 @@ body {
     margin: 0;
     font-family: "Lora", serif;
     overflow-x: hidden;
-    background-color: #0B0B0B;
+    background-color: #000;
     color: #fff;
 }
 
@@ -23,10 +23,15 @@ body {
     justify-content: space-around;
 
     color: #fff;
-    background: #0B0B0B;
+    background: #000;
     text-align: center;
     margin-top: -1em !important;
     padding-bottom: 2em;
+
+    background-image: url(https://i.pinimg.com/236x/a7/64/ac/a764ac606d8273a09950838034d272fd.jpg);
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
 }
 
 #splash.hide {
@@ -75,7 +80,7 @@ body {
     flex-direction: column;
     justify-content: space-around;
     color: white;
-    background-image: url(https://i.pinimg.com/236x/da/21/ba/da21ba2c185863c4a17fcbc3d2d971d5.jpg);
+    background-image: url(https://i.pinimg.com/236x/a7/64/ac/a764ac606d8273a09950838034d272fd.jpg);
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
@@ -91,7 +96,7 @@ body {
     display: flex;
     flex-direction: column;
     justify-content: space-around;
-    background-color: #0B0B0B;
+    background-color: #000;
     padding: 2em;
 }
 
@@ -101,7 +106,7 @@ body {
     display: flex;
     flex-direction: column;
     justify-content: space-around;
-    background-color: #0B0B0B;
+    background-color: #000;
 }
 
 .foto img {
@@ -191,7 +196,7 @@ a {
 }
 
 .quotes {
-    border-left: 2px solid #0B0B0B;
+    border-left: 2px solid #000;
     margin-left: 2em;
     text-align: left;
     margin-right: 2em;
