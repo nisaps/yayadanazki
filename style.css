@@ -75,7 +75,7 @@ body {
 .sampul {
     text-align: center;
     width: 100%;
-    min-height: 80vh;
+    min-height: 700px;
     display: flex;
     flex-direction: column;
     justify-content: space-around;
